@@ -1,0 +1,5 @@
+Scenario,Plain_Det,Plain_P99,HashChain_Det,HashChain_P99,FullOnChain_Det,FullOnChain_P99,Proposed_Det,Proposed_P99
+"Test 1: Log Modification Attack",0.00,0.0015,0.00,0.0114,100.00,18.8353,100.00,0.2014
+"Test 2: Log Deletion Attack",0.00,0.0009,100.00,0.0080,100.00,30.2129,100.00,0.1754
+"Test 3: Log Insertion Attack",0.00,0.0222,100.00,0.0132,100.00,11.0178,100.00,0.4207
+"Test 4: Duplicate / Replay",0.00,0.0009,0.00,0.0005,100.00,29.4026,100.00,1.4267

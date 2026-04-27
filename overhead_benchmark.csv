@@ -1,0 +1,4 @@
+Metric,Plain,HashChain,FullOnChain,Proposed
+"Time to Ingest 50 logs (ms)",0.07,0.80,105878.62,2196.23
+"On-Chain Fabric Storage (bytes)",0,0,5800,123
+"Off-Chain Storage (bytes)",6125,14025,0,60366

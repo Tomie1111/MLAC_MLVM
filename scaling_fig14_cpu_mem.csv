@@ -1,0 +1,37 @@
+Strategy,Tick_200ms,CPU_Pct,VM_Load
+Proposed Predictive In-Place,0,20,0.2
+Proposed Predictive In-Place,1,25,0.25
+Proposed Predictive In-Place,2,30,0.3
+Proposed Predictive In-Place,15,80,0.8
+Proposed Predictive In-Place,16,85,0.85
+Proposed Predictive In-Place,17,90,0.9
+Proposed Predictive In-Place,45,40,0.4
+Proposed Predictive In-Place,46,35,0.35
+Proposed Predictive In-Place,47,30,0.3
+Reactive Threshold,0,20,0.2
+Reactive Threshold,1,25,0.25
+Reactive Threshold,2,30,0.3
+Reactive Threshold,15,70,0.7
+Reactive Threshold,16,75,0.75
+Reactive Threshold,17,80,0.8
+Reactive Threshold,45,50,0.5
+Reactive Threshold,46,45,0.45
+Reactive Threshold,47,40,0.4
+Horizontal (New VM),0,20,0.2
+Horizontal (New VM),1,25,0.25
+Horizontal (New VM),2,30,0.3
+Horizontal (New VM),15,75,0.75
+Horizontal (New VM),16,80,0.8
+Horizontal (New VM),17,85,0.85
+Horizontal (New VM),45,45,0.45
+Horizontal (New VM),46,40,0.4
+Horizontal (New VM),47,35,0.35
+No Scaling,0,20,0.2
+No Scaling,1,25,0.25
+No Scaling,2,30,0.3
+No Scaling,15,95,0.95
+No Scaling,16,100,1.0
+No Scaling,17,100,1.0
+No Scaling,45,100,1.0
+No Scaling,46,100,1.0
+No Scaling,47,100,1.0

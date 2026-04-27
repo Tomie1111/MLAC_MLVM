@@ -1,0 +1,25 @@
+Strategy,Phase,Latency_ms
+Proposed Predictive In-Place,burst,120
+Proposed Predictive In-Place,burst,130
+Proposed Predictive In-Place,burst,125
+Proposed Predictive In-Place,cooldown,110
+Proposed Predictive In-Place,cooldown,115
+Proposed Predictive In-Place,cooldown,112
+Reactive Threshold,burst,180
+Reactive Threshold,burst,190
+Reactive Threshold,burst,185
+Reactive Threshold,cooldown,160
+Reactive Threshold,cooldown,165
+Reactive Threshold,cooldown,162
+Horizontal (New VM),burst,150
+Horizontal (New VM),burst,155
+Horizontal (New VM),burst,152
+Horizontal (New VM),cooldown,140
+Horizontal (New VM),cooldown,145
+Horizontal (New VM),cooldown,142
+No Scaling,burst,250
+No Scaling,burst,260
+No Scaling,burst,255
+No Scaling,cooldown,240
+No Scaling,cooldown,245
+No Scaling,cooldown,242

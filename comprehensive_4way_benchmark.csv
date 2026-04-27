@@ -1,0 +1,5 @@
+Scenario,Redis_Block_%,MLVM_Block_%,BC_BLPM_Block_%,Fabric_Block_%,Redis_Lat_ms,MLVM_Lat_ms,BC_BLPM_Lat_ms,Fabric_Lat_ms
+"Test 1: Cache Poisoning Injection",0.00,100.00,0.00,100.00,0.1450,0.1300,13.1182,27.0040
+"Test 2: Privilege Escalation (No-read-up)",0.00,100.00,0.00,100.00,0.1332,0.1784,14.6706,27.9501
+"Test 3: Replay Attack (Session Drift)",0.00,100.00,0.00,100.00,0.0006,0.2813,7.9907,21.3725
+"Test 4: Audit Log Tampering",0.00,100.00,0.00,100.00,0.1626,0.1434,11.2685,21.6301

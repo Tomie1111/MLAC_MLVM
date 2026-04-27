@@ -1,0 +1,86 @@
+StrategyName,Sample,Phase,RPS
+"Proposed Predictive In-Place",0,"normal",529.69
+"Proposed Predictive In-Place",1,"normal",340.28
+"Proposed Predictive In-Place",2,"normal",489.27
+"Proposed Predictive In-Place",3,"normal",373.83
+"Proposed Predictive In-Place",4,"normal",326.36
+"Proposed Predictive In-Place",5,"burst",391.27
+"Proposed Predictive In-Place",6,"burst",827.94
+"Proposed Predictive In-Place",7,"burst",859.54
+"Proposed Predictive In-Place",8,"burst",960.56
+"Proposed Predictive In-Place",9,"burst",827.73
+"Proposed Predictive In-Place",10,"burst",1003.12
+"Proposed Predictive In-Place",11,"burst",454.78
+"Proposed Predictive In-Place",12,"burst",945.24
+"Proposed Predictive In-Place",13,"cooldown",521.84
+"Proposed Predictive In-Place",14,"cooldown",455.54
+"Proposed Predictive In-Place",15,"cooldown",119.75
+"Proposed Predictive In-Place",16,"cooldown",392.96
+"Proposed Predictive In-Place",17,"cooldown",358.20
+"Proposed Predictive In-Place",18,"cooldown",304.84
+"Reactive Threshold",0,"normal",307.90
+"Reactive Threshold",1,"normal",607.23
+"Reactive Threshold",2,"normal",312.92
+"Reactive Threshold",3,"normal",331.17
+"Reactive Threshold",4,"normal",249.28
+"Reactive Threshold",5,"normal",373.47
+"Reactive Threshold",6,"burst",683.91
+"Reactive Threshold",7,"burst",915.31
+"Reactive Threshold",8,"burst",938.97
+"Reactive Threshold",9,"burst",687.19
+"Reactive Threshold",10,"burst",626.46
+"Reactive Threshold",11,"burst",850.32
+"Reactive Threshold",12,"burst",985.10
+"Reactive Threshold",13,"burst",1028.89
+"Reactive Threshold",14,"burst",1034.07
+"Reactive Threshold",15,"cooldown",292.05
+"Reactive Threshold",16,"cooldown",359.07
+"Reactive Threshold",17,"cooldown",397.74
+"Reactive Threshold",18,"cooldown",314.80
+"Reactive Threshold",19,"cooldown",518.32
+"Reactive Threshold",20,"cooldown",310.73
+"Horizontal (New VM)",0,"normal",425.74
+"Horizontal (New VM)",1,"normal",262.61
+"Horizontal (New VM)",2,"normal",478.86
+"Horizontal (New VM)",3,"normal",467.04
+"Horizontal (New VM)",4,"normal",363.76
+"Horizontal (New VM)",5,"normal",392.77
+"Horizontal (New VM)",6,"burst",978.56
+"Horizontal (New VM)",7,"burst",1137.54
+"Horizontal (New VM)",8,"burst",859.57
+"Horizontal (New VM)",9,"burst",944.09
+"Horizontal (New VM)",10,"burst",1020.21
+"Horizontal (New VM)",11,"burst",747.23
+"Horizontal (New VM)",12,"burst",560.23
+"Horizontal (New VM)",13,"burst",1137.02
+"Horizontal (New VM)",14,"burst",1236.16
+"Horizontal (New VM)",15,"burst",478.25
+"Horizontal (New VM)",16,"cooldown",414.79
+"Horizontal (New VM)",17,"cooldown",375.16
+"Horizontal (New VM)",18,"cooldown",508.88
+"Horizontal (New VM)",19,"cooldown",520.55
+"Horizontal (New VM)",20,"cooldown",259.20
+"Horizontal (New VM)",21,"cooldown",489.55
+"No Scaling",0,"normal",301.10
+"No Scaling",1,"normal",436.06
+"No Scaling",2,"normal",231.75
+"No Scaling",3,"normal",379.81
+"No Scaling",4,"normal",453.88
+"No Scaling",5,"normal",98.85
+"No Scaling",6,"burst",1197.53
+"No Scaling",7,"burst",936.16
+"No Scaling",8,"burst",1080.98
+"No Scaling",9,"burst",1123.86
+"No Scaling",10,"burst",1184.77
+"No Scaling",11,"burst",1255.16
+"No Scaling",12,"burst",1150.96
+"No Scaling",13,"burst",988.95
+"No Scaling",14,"burst",900.82
+"No Scaling",15,"burst",1043.56
+"No Scaling",16,"burst",1150.56
+"No Scaling",17,"cooldown",613.14
+"No Scaling",18,"cooldown",640.18
+"No Scaling",19,"cooldown",258.99
+"No Scaling",20,"cooldown",348.19
+"No Scaling",21,"cooldown",347.18
+"No Scaling",22,"cooldown",339.02
