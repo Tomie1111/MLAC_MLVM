@@ -1,5 +1,5 @@
-Strategy,Response_Time_ms,Dropped_Requests,Session_Survival_Pct
-Proposed Predictive In-Place,150,500,95.5
-Reactive Threshold,200,1200,88.2
-Horizontal (New VM),180,800,92.1
-No Scaling,N/A,2500,75.3
+Strategy,Response_Time_ms,Peak_Latency_ms,Avg_Latency_After_ms,Dropped_Requests,Session_Survival_Pct
+"Proposed Predictive In-Place",455,139.78,9.77,6141,80.2
+"Reactive Threshold",30.5,191.53,9.9,24443,50.1
+"Horizontal (New VM)",1459.4,138.1,10,17354,58.9
+"No Scaling",N/A,83.2,9.99,57373,30.5

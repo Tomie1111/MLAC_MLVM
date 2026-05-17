@@ -1,0 +1,7 @@
+User_ID,Clearance,Total_Requests,Allocated_Tasks,Allocated_Resources,Denied_Requests,Hard_Tasks,Medium_Tasks,Easy_Tasks,Resource_Per_Request,Assigned_VMs,Allowed_Policy_Levels
+user_L0,L0,417,338,864,79,0,0,417,2.07,vm-01|vm-07|vm-13,L0
+user_L1,L1,417,317,1196,100,0,84,333,2.87,vm-02|vm-14|vm-20,L1
+user_L2,L2,417,346,1113,71,0,0,417,2.67,vm-03|vm-09|vm-15,L2
+user_L3,L3,417,158,1226,259,0,417,0,2.94,vm-04|vm-10|vm-16,L3
+user_L4,L4,416,302,1275,114,0,160,256,3.06,vm-05|vm-11|vm-17,L4
+user_L5,L5,416,262,1264,154,0,249,167,3.04,vm-06|vm-12|vm-18,L5

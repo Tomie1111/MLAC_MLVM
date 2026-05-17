@@ -1,37 +1,234 @@
-Strategy,Tick_200ms,CPU_Pct,VM_Load
-Proposed Predictive In-Place,0,20,0.2
-Proposed Predictive In-Place,1,25,0.25
-Proposed Predictive In-Place,2,30,0.3
-Proposed Predictive In-Place,15,80,0.8
-Proposed Predictive In-Place,16,85,0.85
-Proposed Predictive In-Place,17,90,0.9
-Proposed Predictive In-Place,45,40,0.4
-Proposed Predictive In-Place,46,35,0.35
-Proposed Predictive In-Place,47,30,0.3
-Reactive Threshold,0,20,0.2
-Reactive Threshold,1,25,0.25
-Reactive Threshold,2,30,0.3
-Reactive Threshold,15,70,0.7
-Reactive Threshold,16,75,0.75
-Reactive Threshold,17,80,0.8
-Reactive Threshold,45,50,0.5
-Reactive Threshold,46,45,0.45
-Reactive Threshold,47,40,0.4
-Horizontal (New VM),0,20,0.2
-Horizontal (New VM),1,25,0.25
-Horizontal (New VM),2,30,0.3
-Horizontal (New VM),15,75,0.75
-Horizontal (New VM),16,80,0.8
-Horizontal (New VM),17,85,0.85
-Horizontal (New VM),45,45,0.45
-Horizontal (New VM),46,40,0.4
-Horizontal (New VM),47,35,0.35
-No Scaling,0,20,0.2
-No Scaling,1,25,0.25
-No Scaling,2,30,0.3
-No Scaling,15,95,0.95
-No Scaling,16,100,1.0
-No Scaling,17,100,1.0
-No Scaling,45,100,1.0
-No Scaling,46,100,1.0
-No Scaling,47,100,1.0
+Strategy,Tick_200ms,CPU_Pct,Mem_Pct,VM_Load
+"Proposed Predictive In-Place",0,53.4,98.9,0.25
+"Proposed Predictive In-Place",1,54.1,98.9,0.25
+"Proposed Predictive In-Place",2,46.5,98.8,0.25
+"Proposed Predictive In-Place",3,40.5,98.9,0.25
+"Proposed Predictive In-Place",4,40.4,98.9,0.25
+"Proposed Predictive In-Place",5,50.6,98.9,0.25
+"Proposed Predictive In-Place",6,43.3,98.8,0.25
+"Proposed Predictive In-Place",7,42.7,98.9,0.25
+"Proposed Predictive In-Place",8,43.5,98.9,0.25
+"Proposed Predictive In-Place",9,43,98.9,0.25
+"Proposed Predictive In-Place",10,42.4,98.9,0.25
+"Proposed Predictive In-Place",11,43.1,98.6,0.25
+"Proposed Predictive In-Place",12,49.4,98.9,0.25
+"Proposed Predictive In-Place",13,45.5,98.8,0.25
+"Proposed Predictive In-Place",14,41.5,98.8,1
+"Proposed Predictive In-Place",15,47.7,98.7,1
+"Proposed Predictive In-Place",16,43.8,98.8,1
+"Proposed Predictive In-Place",17,42.3,98.8,1
+"Proposed Predictive In-Place",18,39.1,98.9,1
+"Proposed Predictive In-Place",19,38.5,98.8,0.909
+"Proposed Predictive In-Place",20,40.4,98.8,0.649
+"Proposed Predictive In-Place",21,39.6,98.9,0.463
+"Proposed Predictive In-Place",22,66,99,0.331
+"Proposed Predictive In-Place",23,65.2,98.8,0.331
+"Proposed Predictive In-Place",24,37.1,98.9,0.331
+"Proposed Predictive In-Place",25,48.4,99,0.331
+"Proposed Predictive In-Place",26,47.3,99.1,0.331
+"Proposed Predictive In-Place",27,54.4,99.1,0.331
+"Proposed Predictive In-Place",28,50,99.1,0.331
+"Proposed Predictive In-Place",29,39.9,99.1,0.331
+"Proposed Predictive In-Place",30,45.5,99,0.331
+"Proposed Predictive In-Place",31,39.3,98.9,0.331
+"Proposed Predictive In-Place",32,45.5,99.2,0.331
+"Proposed Predictive In-Place",33,41.5,99.2,0.331
+"Proposed Predictive In-Place",34,40,99.1,0.331
+"Proposed Predictive In-Place",35,55.5,99.1,0.331
+"Proposed Predictive In-Place",36,39.1,99.1,0.331
+"Proposed Predictive In-Place",37,56.6,99.1,0.331
+"Proposed Predictive In-Place",38,50.6,99.1,0.331
+"Proposed Predictive In-Place",39,38,99.1,0.331
+"Proposed Predictive In-Place",40,38.7,99.2,0.331
+"Proposed Predictive In-Place",41,44.6,99,0.331
+"Proposed Predictive In-Place",42,41.3,99.2,0.331
+"Proposed Predictive In-Place",43,46.7,99.2,0.033
+"Proposed Predictive In-Place",44,40.6,99.1,0.039
+"Proposed Predictive In-Place",45,42.1,99,0.046
+"Proposed Predictive In-Place",46,45.4,99,0.054
+"Proposed Predictive In-Place",47,39.7,99.1,0.064
+"Proposed Predictive In-Place",48,47.1,99,0.075
+"Proposed Predictive In-Place",49,42.2,99,0.088
+"Proposed Predictive In-Place",50,40.3,99.2,0.104
+"Proposed Predictive In-Place",51,46.8,99.1,0.123
+"Proposed Predictive In-Place",52,42.3,99.1,0.145
+"Proposed Predictive In-Place",53,42.2,99.1,0.171
+"Proposed Predictive In-Place",54,40.6,99.1,0.202
+"Proposed Predictive In-Place",55,42,99.2,0.238
+"Proposed Predictive In-Place",56,42.5,99.2,0.25
+"Proposed Predictive In-Place",57,45.2,99,0.25
+"Reactive Threshold",0,36.7,99.2,0.25
+"Reactive Threshold",1,44.4,99.2,0.25
+"Reactive Threshold",2,42.7,99.2,0.25
+"Reactive Threshold",3,40.7,99.2,0.25
+"Reactive Threshold",4,44.5,99.2,0.25
+"Reactive Threshold",5,42.4,99.1,0.25
+"Reactive Threshold",6,47.6,99.2,0.25
+"Reactive Threshold",7,57.6,99.2,0.25
+"Reactive Threshold",8,69.9,99.2,0.25
+"Reactive Threshold",9,45.8,99.3,0.25
+"Reactive Threshold",10,45.3,99.2,0.25
+"Reactive Threshold",11,42.9,99.2,0.25
+"Reactive Threshold",12,44.5,99.2,0.25
+"Reactive Threshold",13,48.4,99.1,0.25
+"Reactive Threshold",14,47.9,99.1,1
+"Reactive Threshold",15,47.4,99.3,1
+"Reactive Threshold",16,45.3,99.3,1
+"Reactive Threshold",17,48.2,99.2,1
+"Reactive Threshold",18,51.6,99.3,1
+"Reactive Threshold",19,43.5,99.1,1
+"Reactive Threshold",20,54.8,99,1
+"Reactive Threshold",21,67.7,99,1
+"Reactive Threshold",22,54,98.9,1
+"Reactive Threshold",23,46.2,98.7,1
+"Reactive Threshold",24,50,98.7,1
+"Reactive Threshold",25,49.4,98.4,1
+"Reactive Threshold",26,49.4,98.3,1
+"Reactive Threshold",27,62,98.1,1
+"Reactive Threshold",28,78.8,98.1,1
+"Reactive Threshold",29,65.8,98.1,1
+"Reactive Threshold",30,49.4,97.9,1
+"Reactive Threshold",31,50.9,97.9,1
+"Reactive Threshold",32,51.4,97.9,1
+"Reactive Threshold",33,48.5,97.9,1
+"Reactive Threshold",34,54.3,97.9,1
+"Reactive Threshold",35,49.7,97.9,1
+"Reactive Threshold",36,45.9,98,1
+"Reactive Threshold",37,43.1,98.1,1
+"Reactive Threshold",38,48.8,98.3,1
+"Reactive Threshold",39,41.8,98.1,1
+"Reactive Threshold",40,41.5,98.2,1
+"Reactive Threshold",41,41,98.2,1
+"Reactive Threshold",42,39.8,98.1,1
+"Reactive Threshold",43,47.5,98.3,0.113
+"Reactive Threshold",44,45.6,98.2,0.113
+"Reactive Threshold",45,44.6,98.2,0.113
+"Reactive Threshold",46,44.7,98.1,0.113
+"Reactive Threshold",47,49.1,98.1,0.113
+"Reactive Threshold",48,40.9,98.2,0.113
+"Reactive Threshold",49,45.8,98.2,0.113
+"Reactive Threshold",50,43.7,98.2,0.113
+"Reactive Threshold",51,44.7,98.1,0.113
+"Reactive Threshold",52,39.7,98.1,0.113
+"Reactive Threshold",53,47.2,98.4,0.113
+"Reactive Threshold",54,42.8,98.5,0.113
+"Reactive Threshold",55,41.6,98.5,0.113
+"Reactive Threshold",56,70.1,98.8,0.113
+"Reactive Threshold",57,51.9,98.7,0.113
+"Horizontal (New VM)",0,56.7,98.2,0.25
+"Horizontal (New VM)",1,50,98.1,0.25
+"Horizontal (New VM)",2,50.6,97.8,0.25
+"Horizontal (New VM)",3,58.9,97.7,0.25
+"Horizontal (New VM)",4,53.1,97.9,0.25
+"Horizontal (New VM)",5,54.4,97.6,0.25
+"Horizontal (New VM)",6,57.3,97.9,0.25
+"Horizontal (New VM)",7,46.1,97.9,0.25
+"Horizontal (New VM)",8,44.7,97.9,0.25
+"Horizontal (New VM)",9,45.9,97.9,0.25
+"Horizontal (New VM)",10,50.6,98.1,0.25
+"Horizontal (New VM)",11,49.4,98.1,0.25
+"Horizontal (New VM)",12,49.4,98,0.25
+"Horizontal (New VM)",13,48.1,98,0.25
+"Horizontal (New VM)",14,52.1,98,1
+"Horizontal (New VM)",15,45.4,98.2,1
+"Horizontal (New VM)",16,45.3,98.1,1
+"Horizontal (New VM)",17,43.1,98,1
+"Horizontal (New VM)",18,48.1,98.1,1
+"Horizontal (New VM)",19,55,98.2,1
+"Horizontal (New VM)",20,52.5,98.1,1
+"Horizontal (New VM)",21,56.9,98,1
+"Horizontal (New VM)",22,52.4,97.9,1
+"Horizontal (New VM)",23,50,97.9,1
+"Horizontal (New VM)",24,51.2,97.9,1
+"Horizontal (New VM)",25,40.1,97.9,1
+"Horizontal (New VM)",26,39.7,98,1
+"Horizontal (New VM)",27,45,98,1
+"Horizontal (New VM)",28,39.4,98,1
+"Horizontal (New VM)",29,42.7,98,1
+"Horizontal (New VM)",30,39.2,98,0.833
+"Horizontal (New VM)",31,44.7,98.1,0.833
+"Horizontal (New VM)",32,39.8,98,0.833
+"Horizontal (New VM)",33,43.8,98.1,0.833
+"Horizontal (New VM)",34,39.1,98.1,0.833
+"Horizontal (New VM)",35,40.4,98,0.833
+"Horizontal (New VM)",36,38.2,98.1,0.833
+"Horizontal (New VM)",37,41.1,97.9,0.833
+"Horizontal (New VM)",38,37.3,98.1,0.625
+"Horizontal (New VM)",39,42.8,98.1,0.625
+"Horizontal (New VM)",40,37.4,98,0.625
+"Horizontal (New VM)",41,53.5,98,0.625
+"Horizontal (New VM)",42,70.8,98,0.625
+"Horizontal (New VM)",43,45.7,98,0.625
+"Horizontal (New VM)",44,53.5,98,0.063
+"Horizontal (New VM)",45,53.8,98.2,0.063
+"Horizontal (New VM)",46,50.6,98.1,0.063
+"Horizontal (New VM)",47,42,98.2,0.063
+"Horizontal (New VM)",48,42.2,98.4,0.063
+"Horizontal (New VM)",49,38.7,98.5,0.063
+"Horizontal (New VM)",50,41.6,98.7,0.063
+"Horizontal (New VM)",51,40.5,98.7,0.063
+"Horizontal (New VM)",52,46.9,99,0.063
+"Horizontal (New VM)",53,39.9,99,0.063
+"Horizontal (New VM)",54,40,99.1,0.063
+"Horizontal (New VM)",55,60,99.1,0.063
+"Horizontal (New VM)",56,39.6,98.9,0.063
+"Horizontal (New VM)",57,38.9,99.1,0.063
+"Horizontal (New VM)",58,41.6,99.1,0.063
+"No Scaling",0,45.1,99.1,0.25
+"No Scaling",1,43.6,99.1,0.25
+"No Scaling",2,42.7,98.9,0.25
+"No Scaling",3,40.1,99,0.25
+"No Scaling",4,44.3,98.9,0.25
+"No Scaling",5,39.8,99,0.25
+"No Scaling",6,39.5,99.1,0.25
+"No Scaling",7,40.8,99,0.25
+"No Scaling",8,39.6,99,0.25
+"No Scaling",9,43.8,99,0.25
+"No Scaling",10,38.5,99,0.25
+"No Scaling",11,38.8,99.1,0.25
+"No Scaling",12,42.9,99,0.25
+"No Scaling",13,40.3,99.1,0.25
+"No Scaling",14,40.5,99.1,1
+"No Scaling",15,41,99,1
+"No Scaling",16,38.8,99.1,1
+"No Scaling",17,40,99.1,1
+"No Scaling",18,42.7,99,1
+"No Scaling",19,35,99.1,1
+"No Scaling",20,36,99.1,1
+"No Scaling",21,41.1,99.2,1
+"No Scaling",22,83.5,99,1
+"No Scaling",23,57,99.1,1
+"No Scaling",24,42.2,99.1,1
+"No Scaling",25,41,99,1
+"No Scaling",26,48.4,99.1,1
+"No Scaling",27,75.2,99.2,1
+"No Scaling",28,41.2,98.8,1
+"No Scaling",29,42.6,99.1,1
+"No Scaling",30,38.4,98.9,1
+"No Scaling",31,47.3,99.1,1
+"No Scaling",32,45.1,99.2,1
+"No Scaling",33,43.7,99,1
+"No Scaling",34,41.9,99,1
+"No Scaling",35,37.4,99,1
+"No Scaling",36,40.6,99,1
+"No Scaling",37,43.2,99,1
+"No Scaling",38,43.7,99,1
+"No Scaling",39,45.2,99,1
+"No Scaling",40,44,98.8,1
+"No Scaling",41,38.4,99.1,1
+"No Scaling",42,46.3,99,1
+"No Scaling",43,37.3,99.1,1
+"No Scaling",44,51.3,99.1,0.25
+"No Scaling",45,44.8,99,0.25
+"No Scaling",46,43.2,98.9,0.25
+"No Scaling",47,42.1,98.8,0.25
+"No Scaling",48,44.7,98.7,0.25
+"No Scaling",49,40.9,98.8,0.25
+"No Scaling",50,40.5,99,0.25
+"No Scaling",51,42,98.9,0.25
+"No Scaling",52,52.2,99,0.25
+"No Scaling",53,41.1,98.8,0.25
+"No Scaling",54,42.5,99,0.25
+"No Scaling",55,42.4,98.9,0.25
+"No Scaling",56,47.5,98.7,0.25
+"No Scaling",57,56.3,98.5,0.25
